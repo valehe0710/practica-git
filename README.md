@@ -1,2 +1,3 @@
-##PRACTICA DE GIT
-repositorio de practica para configurar git
+## PRÁCTICA DE GIT
+
+Repositorio de práctica para configurar y aprender a usar Git.
